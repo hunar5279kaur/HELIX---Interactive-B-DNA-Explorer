@@ -16,7 +16,7 @@ HELIX is an interactive 3D DNA explorer built with HTML, CSS, JavaScript, and Th
 
 ## Getting Started
 
-Open `HELIX.html` in a modern browser or use the VS Code Live Server extension.
+Open `index.html` in a modern browser or use the VS Code Live Server extension.
 
 *An internet connection may be required to load external libraries.*
 
